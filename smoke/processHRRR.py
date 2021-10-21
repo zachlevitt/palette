@@ -5,9 +5,9 @@ from google.cloud import storage
 
 year = "2021"
 month = "07"
-day = "01"
+day = "21"
 date = year + month + day
-#month = '202107'
+
 subprocess.check_call(['mkdir', date])
 
 filenames = []
