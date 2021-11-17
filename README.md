@@ -25,6 +25,7 @@ Inspired by Dylan Moriarty's [cookbook](https://github.com/DylanMoriarty/cookboo
     -   [Source](http://is4fires.fmi.fi/)
   - [Data for today and yesterday](https://nomads.ncep.noaa.gov/pub/data/nccf/com/hrrr/prod/)
     - For example, /hrrr.t22z.wrfsfcf00.grib2 is for 6 p.m ET (22 UTC). For near surface smoke you are looking for the variable called MASSDEN or mass density (band 76)
+  - Inventory of HRRR product: https://www.nco.ncep.noaa.gov/pmb/products/hrrr/hrrr.t00z.wrfsfcf00.grib2.shtml
 
 ### Satellite imagery
   - [MODIS regional-level 250m imagery](https://worldview.earthdata.nasa.gov/)
