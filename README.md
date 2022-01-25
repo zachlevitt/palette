@@ -2,7 +2,7 @@
 
 Scripts, color schemes, templates and more for making maps.
 
-Go to the wiki for maps on the command line [here](https://github.com/zachlevitt/palette/wiki/Maps-on-the-command-line)
+Go to the wiki for maps on the command line [here](https://github.com/zachlevitt/palette/wiki)
 
 Inspired by Dylan Moriarty's [cookbook](https://github.com/DylanMoriarty/cookbook)
 
