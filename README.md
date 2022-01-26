@@ -34,6 +34,7 @@ Inspired by Dylan Moriarty's [cookbook](https://github.com/DylanMoriarty/cookboo
   - [LANDSAT 90m](https://landsat.usgs.gov/)
     - Or: [Sentinel Hub](https://apps.sentinel-hub.com/eo-browser/?zoom=10&lat=41.9&lng=12.5&themeId=DEFAULT-THEME#lat=41.90074384269173&lng=12.499008178710938&zoom=10)
   - [Sentinel 30m](https://apps.sentinel-hub.com/eo-browser/)
+  - NICAR20 from Tim Wallace: https://github.com/timwallace/nicar20-imagery-sources
 
 
 ### Land cover
