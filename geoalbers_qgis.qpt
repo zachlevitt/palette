@@ -62,7 +62,7 @@
   </LayoutItem>
   <GuideCollection visible="1"/>
  </PageCollection>
- <LayoutItem zValue="3" excludeFromExports="0" itemRotation="0" groupUuid="" visibility="1" position="70.148,144.953,mm" positionLock="true" keepLayerSet="false" type="65639" uuid="{3e445cec-0f63-4c2e-959a-1223c75b88a1}" isTemporal="0" templateUuid="{3e445cec-0f63-4c2e-959a-1223c75b88a1}" mapRotation="0" mapFlags="0" frameJoinStyle="miter" background="false" followPresetName="" id="Map 3" positionOnPage="70.148,144.953,mm" drawCanvasItems="true" blendMode="0" labelMargin="0,mm" referencePoint="0" outlineWidthM="0.3,mm" frame="false" opacity="1" followPreset="false" size="65.4936,58.5019,mm">
+ <LayoutItem zValue="3" excludeFromExports="0" itemRotation="0" groupUuid="" visibility="1" position="70.148,144.953,mm" positionLock="false" keepLayerSet="false" type="65639" uuid="{3e445cec-0f63-4c2e-959a-1223c75b88a1}" isTemporal="0" templateUuid="{3e445cec-0f63-4c2e-959a-1223c75b88a1}" mapRotation="0" mapFlags="0" frameJoinStyle="miter" background="false" followPresetName="" id="Map 3" positionOnPage="70.148,144.953,mm" drawCanvasItems="true" blendMode="0" labelMargin="0,mm" referencePoint="0" outlineWidthM="0.3,mm" frame="false" opacity="1" followPreset="false" size="65.4936,58.5019,mm">
   <FrameColor green="0" alpha="255" red="0" blue="0"/>
   <BackgroundColor green="255" alpha="255" red="255" blue="255"/>
   <LayoutObject>
@@ -76,6 +76,19 @@
    <customproperties/>
   </LayoutObject>
   <Extent ymin="180983.77649091463536024" xmax="751071.03144312964286655" xmin="-695915.95886565919499844" ymax="1473498.51194656267762184"/>
+  <crs>
+   <spatialrefsys>
+    <wkt>PROJCRS["Hawaii_Albers_Equal_Area_Conic",BASEGEOGCRS["NAD83",DATUM["North American Datum 1983",ELLIPSOID["GRS 1980",6378137,298.257222101,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["Degree",0.0174532925199433]]],CONVERSION["Hawaii_Albers_Equal_Area_Conic",METHOD["Albers Equal Area",ID["EPSG",9822]],PARAMETER["Latitude of false origin",13,ANGLEUNIT["Degree",0.0174532925199433],ID["EPSG",8821]],PARAMETER["Longitude of false origin",-157,ANGLEUNIT["Degree",0.0174532925199433],ID["EPSG",8822]],PARAMETER["Latitude of 1st standard parallel",8,ANGLEUNIT["Degree",0.0174532925199433],ID["EPSG",8823]],PARAMETER["Latitude of 2nd standard parallel",18,ANGLEUNIT["Degree",0.0174532925199433],ID["EPSG",8824]],PARAMETER["Easting at false origin",0,LENGTHUNIT["metre",1],ID["EPSG",8826]],PARAMETER["Northing at false origin",0,LENGTHUNIT["metre",1],ID["EPSG",8827]]],CS[Cartesian,2],AXIS["(E)",east,ORDER[1],LENGTHUNIT["metre",1]],AXIS["(N)",north,ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["unknown"],AREA["USA - Hawaii - onshore"],BBOX[18.87,-160.3,22.29,-154.74]],ID["ESRI",102007]]</wkt>
+    <proj4>+proj=aea +lat_0=13 +lon_0=-157 +lat_1=8 +lat_2=18 +x_0=0 +y_0=0 +ellps=GRS80 +towgs84=1,1,-1,0,0,0,0 +units=m +no_defs</proj4>
+    <srsid>27130</srsid>
+    <srid>102007</srid>
+    <authid>ESRI:102007</authid>
+    <description>Hawaii_Albers_Equal_Area_Conic</description>
+    <projectionacronym>aea</projectionacronym>
+    <ellipsoidacronym>EPSG:7019</ellipsoidacronym>
+    <geographicflag>false</geographicflag>
+   </spatialrefsys>
+  </crs>
   <LayerSet/>
   <AtlasMap scalingMode="2" margin="0.10000000000000001" atlasDriven="0"/>
   <labelBlockingItems/>
