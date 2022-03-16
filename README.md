@@ -8,6 +8,9 @@ Inspired by Dylan Moriarty's [cookbook](https://github.com/DylanMoriarty/cookboo
 
 ## Helpful links
 
+## urbanization
+https://osf.io/fzv5e/
+
 ### Climate variables (temp, precip)
   - [Climate Engine](https://app.climateengine.com/climateEngine)
     - Easy access to GEE datasets, weather data, etc
