@@ -7,10 +7,10 @@ Go to the repo [wiki](https://github.com/zachlevitt/palette/wiki):
 
 ### [Data and helpful links](https://github.com/zachlevitt/palette/wiki/Data-and-helpful-links)
 
-### [General commands](https://github.com/zachlevitt/palette/wiki/Maps-on-the-command-line)
-
 ### [Mapshaper commands](https://github.com/zachlevitt/palette/wiki/Mapshaper)
 
 ### [GDAL commands](https://github.com/zachlevitt/palette/wiki/GDAL-Reference)
+
+### [FFMPEG and Pyrmiad Shader commands](https://github.com/zachlevitt/palette/wiki/Maps-on-the-command-line)
 
 Inspired by Dylan Moriarty's [cookbook](https://github.com/DylanMoriarty/cookbook)
