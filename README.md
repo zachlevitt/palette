@@ -11,6 +11,8 @@ Go to the repo [wiki](https://github.com/zachlevitt/palette/wiki):
 
 ### [GDAL](https://github.com/zachlevitt/palette/wiki/GDAL-Reference)
 
+### [Web dev](https://github.com/zachlevitt/palette/wiki/Web-development)
+
 ### [Misc. command line](https://github.com/zachlevitt/palette/wiki/Miscellaneous-map-stuff-on-the-command-line)
 
 Inspired by Dylan Moriarty's [cookbook](https://github.com/DylanMoriarty/cookbook)
