@@ -1,0 +1,9 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="AREA_OR_POINT">Area</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Description>elevation</Description>
+    <ColorInterp>Gray</ColorInterp>
+  </PAMRasterBand>
+</PAMDataset>
